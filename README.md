@@ -15,7 +15,6 @@ This repository contains various C/C++ projects categorized into beginner, inter
   2. 3D Graphics Engine
   3. Operating System Kernel
  
-------------------------------------------------------------------------------------------------------------------------------------------
   
 ## Beginner Projects
 ### Calculator Program
